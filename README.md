@@ -53,7 +53,7 @@ These are arranged in increasing complexity, culminating in the teleportation ex
 
 ```bash
 # Clone the repository
-git clone https://github.com/10CarlosEsteves/Entanglement-Workshop.git
+git clone https://github.com/Feynman-Research-Group/Entanglement-Workshop.git
 cd Entanglement-Workshop
 
 # Install dependencies
