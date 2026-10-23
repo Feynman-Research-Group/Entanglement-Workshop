@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This repository contains a curated set of **four Jupyter notebooks** developed for a quantum computing workshop held at **CESUPA (Faculdade CESUPA)**. The goal is to introduce students to quantum programming, linear algebra of quantum states, and quantum teleportation using *Qiskit*. All examples are designed to be clear, modular, and instructive.
 
@@ -16,7 +16,7 @@ This workshop was conducted at CESUPA (Faculdade CESUPA) by [Carlos Esteves](htt
 
 ---
 
-## 📂 Notebook Contents & Structure
+## Notebook Contents & Structure
 
 Below is an organized summary of each notebook and its educational purpose:
 
@@ -31,7 +31,7 @@ These are arranged in increasing complexity, culminating in the teleportation ex
 
 ---
 
-## 🧠 Key Concepts Covered
+## Key Concepts Covered
 
 - **Quantum state representation** (statevectors, basis states)  
 - **Quantum gates and operations** via matrix algebra  
@@ -41,7 +41,7 @@ These are arranged in increasing complexity, culminating in the teleportation ex
 
 ---
 
-## 🛠️ Prerequisites & Setup
+## Prerequisites & Setup
 
 ### Requirements
 
